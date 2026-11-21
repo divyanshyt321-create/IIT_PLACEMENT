@@ -1,0 +1,34 @@
+IIT PLACEMENT DATA — ANALYSIS REPORT
+
+1. Dataset Scope
+The dataset contains six engineering branches: CSE, ECE, Electrical,
+Mechanical, Civil, and Chemical.
+
+The source data does not specify IIT names, placement year, recruiters,
+or individual student salary records. Therefore, the results describe
+only the provided dataset.
+
+2. Overall Placement Summary
+Total students: 570
+Placed students: 475
+Unplaced students: 95
+Overall placement rate: 83.33%
+
+3. Branch-wise Findings
+Highest placement rate: CSE — 95.83%
+Lowest placement rate: Civil — 68.75%
+Highest package: CSE — 80 LPA
+
+4. Package Analysis
+Simple mean of the six branch average packages: 13 LPA
+Placed-student-weighted average of branch averages: 14.40 LPA (estimate)
+
+The weighted figure uses each branch's placed-student count as its weight.
+It is an estimate based on branch-level averages, not an exact student-level
+overall average.
+
+5. Limitations
+The dataset does not identify a particular IIT or placement year.
+It does not include recruiter names or individual salary records.
+Results should not be presented as verified statistics for all IITs
+or for a specific placement year.
